@@ -19,10 +19,19 @@ Engaging in Madhubani painting not only celebrates the artistic traditions of In
 ## Examples of Madhubani Paintings
 
 ### Painting 1
-![Madhubani Painting 1](https://github.com/ashay-thamankar/Madhubani-Painting/blob/main/Paints/Madhubani_Painting_Ashay_08-07-2022.jpg)
+![Madhubani Painting 1](https://github.com/ashay-thamankar/Madhubani-Painting/blob/main/Paints/Madhubani_Painting_Ashay_13_12_2023.jpg)
 
 ### Painting 2
-![Madhubani Painting 2](https://github.com/ashay-thamankar/Madhubani-Painting/blob/main/Paints/Madhubani_Painting_Ashay_01_03_2021.jpg)
+![Madhubani Painting 2](https://github.com/ashay-thamankar/Madhubani-Painting/blob/main/Paints/Madhubani_Painting_Ashay_08-07-2022.jpg)
+
+### Painting 3
+![Madhubani Painting 1](https://github.com/ashay-thamankar/Madhubani-Painting/blob/main/Paints/Madhubani_Painting_Ashay_01_03_2021.jpg)
+
+### Painting 4
+![Madhubani Painting 1](https://github.com/ashay-thamankar/Madhubani-Painting/blob/main/Paints/Madhubani_Painting_Ashay_05_08_2019.jpg)
+
+### Painting 5
+![Madhubani Painting 1](https://github.com/ashay-thamankar/Madhubani-Painting/blob/main/Paints/Madhubani_Painting_Ashay_20-01-2016.jpg)
 
 Enjoy exploring the vibrant world of Madhubani paintings! 🌈✨
 
